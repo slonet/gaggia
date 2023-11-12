@@ -7,7 +7,7 @@ CS    CH2
 
 #include <SPI.h>
 
-#define SPI_CS_PIN 10
+#define SPI_CS_PIN 53
 #define TEMP_LSB 3
 #define TEMP_MASK 0x7FF8
 #define SPI_CLK 1000000
